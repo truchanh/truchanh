@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @truchanh
 - 👀 I’m interested in programming, reading books, watching anime and playing games!
-- 🌱 I’m currently learning python, c++, kotlin, java, html/css/js
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
